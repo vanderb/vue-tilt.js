@@ -1,0 +1,33 @@
+{
+  "name": "vue-tilt.js",
+  "version": "1.0.0",
+  "description": "Add tilt-effect to your elements",
+  "main": "src/index.js",
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanderb/vue-tilt.js.git"
+  },
+  "keywords": [
+    "vue",
+    "laravel"
+  ],
+  "author": "Freerk van Zeijl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vanderb/vue-tilt.js/issues"
+  },
+  "homepage": "https://github.com/vanderb/vue-tilt.js#readme",
+  "dependencies": {
+    "vue": "^2.4.2",
+    "lodash": "^4.17.4",
+    "vanilla-tilt": "^1.4.1"
+  }
+}
