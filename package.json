@@ -1,11 +1,12 @@
 {
   "name": "vue-tilt.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add tilt-effect to your elements",
   "main": "src/index.js",
   "files": [
     "src",
     "README.md",
+    "CHANGELOG.md",
     "LICENSE"
   ],
   "scripts": {
