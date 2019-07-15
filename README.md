@@ -1,7 +1,7 @@
 Vue-Tilt.js
 ====================
 
-![Vue-Tilt.js](img/vue-tilt.js.png)
+![Vue-Tilt.js](http://api.devbar.ultrabold.de/github?text=VueTilt.js)
 
 **Add Tilt-Effect to your elements, based on vanilla-tilt.js**
 
