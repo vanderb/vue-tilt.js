@@ -5,8 +5,6 @@ Vue-Tilt.js
 
 **Add Tilt-Effect to your elements, based on vanilla-tilt.js**
 
-*This package is currently in alpha. Any suggestions and found bugs are welcome.*
-
 ## Installation
 
 ### Install package
