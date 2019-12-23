@@ -1,11 +1,11 @@
 {
   "name": "vue-tilt.js",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Add tilt-effect to your elements",
   "main": "dist/vue-tilt.umd.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/frogbob/vue-tilt.js.git"
+    "url": "git+https://github.com/vanderb/vue-tilt.js.git"
   },
   "keywords": [
     "vue",
@@ -14,9 +14,9 @@
   "author": "Freerk van Zeijl",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/frogbob/vue-tilt.js/issues"
+    "url": "https://github.com/vanderb/vue-tilt.js/issues"
   },
-  "homepage": "https://github.com/frogbob/vue-tilt.js#readme",
+  "homepage": "https://github.com/vanderb/vue-tilt.js#readme",
   "module": "dist/vue-tilt.esm.js",
   "unpkg": "dist/vue-tilt.min.js",
   "files": [
